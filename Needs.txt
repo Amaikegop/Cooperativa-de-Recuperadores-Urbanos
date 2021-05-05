@@ -1,0 +1,5 @@
+En la actualidad el manejo de elementos reciclables no esta centralizado, esto impide que los recuperadores trabajen de manera ordenada, perdiendo no solo tiempo si no tambien dinero a la hora de la venta de estos materiales, a su ves, del lado del ciudadano es dificil sabes que elementos son reciclables y no saben a quien acudir pra reciclarlos. Estas problemáticas son las que nuestra aplicación resuelve.
+
+Con esta pagina web, los ciudadanos pueden conocer qué materiales pueden reciclar, el estado en el que deben ser entregados los mismos, asi como la facilidad de entregarlos de manera simple. Todo esto promueve y facilita ésta práctica que puede ayudar notablemente a nuestra ciudad y a sus habitantes.
+
+Desde el punto de vista del cartonero, la pagina ayuda a un reparto mas equitativo de las ganancias generadas por los materiales y a su vez con la generacion de listados automaticos de recogida, a un orden y una mejora en la efectividad de trabajo.
