@@ -18,17 +18,11 @@ Con esta pagina web, los ciudadanos pueden conocer qué materiales pueden recicl
 Desde el punto de vista del cartonero, la pagina ayuda a un reparto mas equitativo de las ganancias generadas por los materiales y a su vez con la generacion de listados automaticos de recogida, a un orden y una mejora en la efectividad de trabajo.
 
 ##4. Product
->[Summarizes the three to five features of your product that make it stand out and that are critical for its success. These are likely to correlate to its unique selling proposition, and they should address the needs identified. 
-What product it is? What makes it stand out? Is it feasible to develop the product?]
-
->[Example: 
->
->>-Tablet app; data is held in GreenHopper
->
->>-Looks like a physical canvas; intuitive to use
->
->>-Provides guidance and templates]
->
+*Registrar los pedidos de retiro realizados junto con los datos del trabajador y su recorrido.
+*Llevar un registro de lo acopiado junto con el porcentaje que le corresponde a cada trabajador.
+*Tener una sección de materiales aceptados y su forma de entrega.
+*La facilidad de una cartelera virtual: donde ciudadanos se puedan comunicar de forma abierta ofreciendose para retiro de material y realizar pedidos de retiro.
+*Registro del usuario secretaria junto con sus permisos especiales de modificacion, creacion y borrado de elementos.
 
 ##5. Business Goals
 
