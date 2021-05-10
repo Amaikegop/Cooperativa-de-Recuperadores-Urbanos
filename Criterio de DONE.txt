@@ -1,0 +1,16 @@
+﻿Criterio DONE
+
+
+■ El product backlog desarrollado completamente (identificar todas las user stories con sus criterios de aceptación).
+■ Haber realizado el USM de manera que se tenga un conocimiento claro de sus funcionalidades que involucran el sistema.
+■ Definir un documento de visión con el objetivo de que el sistema sea potencialmente vendible.
+■ Que esté presente el diagrama de clases de alto nivel, plasmando en él las principales clases que implican el desarrollo del sistema.
+■Que esté especificado el caso de uso pedido junto con los casos de uso relacionados a él.
+■ Para el resumen del sprint retrospective, expresar las complicaciones que se tuvieron, los avances realizados y lo que se realizará en el próximo sprint.
+■ Informar si se realizó un cambio con respecto a la entrega anterior, indicando detalladamente el mismo.
+■ Para la especificación refinada de user stories, se espera que el product backlog esté lo suficientemente desarrollado como para llegar al nivel de abstracción de tareas, de modo que estén listas para entrar a un sprint.
+■ El sprint backlog especificara que user stories fueron seleccionadas para desarrollar en el Sprint.
+■ El scrum board deberá estar actualizado con la información de todo lo desarrollado en el sprint. Tienen que estar los miembros del equipo que participaron de cada tarjeta.
+■ Para el incremento, entregar el backend desarrollado.
+■ Con respecto al diagrama de clases, se deberá mostrar este en torno al estado actual del sistema, debe concordar con el backend desarrollado (incluyendo adornos y relaciones).
+■ Se hayan realizado los diagramas de secuencia y de deployment, incluyendo los componentes requeridos que provee UML.
