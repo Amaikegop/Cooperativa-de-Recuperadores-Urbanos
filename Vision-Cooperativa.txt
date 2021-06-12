@@ -8,7 +8,7 @@ Para ciudadanos y cartoneros quienes quieren reciclar sus residuos o realizar el
 
 ##2. Target Group
 Users: Secretaria y cartoneros.
-Customers: Ciudadanos.
+Stakeholders: Ciudadanos.
 
 ##3. Needs
 En la actualidad el manejo de elementos reciclables no esta centralizado, esto impide que los recuperadores trabajen de manera ordenada, perdiendo no solo tiempo si no tambien dinero a la hora de la venta de estos materiales, a su vez, del lado del ciudadano es dificil identificar los elementos reciclables y saber a quien acudir pra reciclarlos.
