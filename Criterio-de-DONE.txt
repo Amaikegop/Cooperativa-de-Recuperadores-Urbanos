@@ -1,0 +1,5 @@
+﻿Criterio DONE
+
+
+■ Se espera que se cumplan todos los criterios de aceptación correspondientes a las User Stories.
+■ Se espera que al menos un miembro del equipo testeo lo realizado por otro miembro del equipo.
