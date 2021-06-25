@@ -1,0 +1,30 @@
+#Summary Sprint Retrospective: <Sprint #3>
+
+##1. Personas invitadas a la reunión
+-Gopar Amaiké
+-Del Campo Mateo
+-Sironi Marina
+-Aguiar Ismael
+-Pose Geronimo
+-Chamer Quimey
+-Gonzalez Gabriel
+-Figereido Bautista
+
+##2. Lista de personas que atendieron a la reunión
+-Gopar Amaiké
+-Del Campo Mateo
+-Sironi Marina
+-Aguiar Ismael
+-Pose Geronimo
+-Chamer Quimey
+-Gonzalez Gabriel
+-Figereido Bautista
+
+##3. Que funcionó bien?
+La revisión de tareas entre miembros del equipo y el tiempo empleado al tercer sprint.
+
+##4. Que se podría mejorar?
+La comunicación y reuniones con el PO.
+
+##5. Que nos comprometeremos a hacer en el siguiente Sprint?
+Asistir a mayor cantidad de reuniones con el PO.
