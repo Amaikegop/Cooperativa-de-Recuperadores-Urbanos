@@ -1,0 +1,4 @@
+El diagrama de clases es grande, y para mayor legibilidad 
+separamos las clases entre si. De todas formas les dejo el link
+del draw.io para que lo visualicen desde ahi.
+https://app.diagrams.net/#G1OOsASkrxGPO7c1lsEUyU9yG9uWfc4B0V
